@@ -11,5 +11,5 @@
   "requirements": [
     "hyundai_kia_connect_api @ https://github.com/tastelessjolt/hyundai_kia_connect_api/archive/f41c9f53bd75e15bf4b0323c6131904292418246.tar.gz"
   ],
-  "version": "3.12.0-korea-test.1"
+  "version": "3.12.0-korea-test.2"
 }
