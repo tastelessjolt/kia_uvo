@@ -9,7 +9,7 @@
   "issue_tracker": "https://github.com/Hyundai-Kia-Connect/kia_uvo/issues",
   "loggers": ["kia_uvo", "hyundai_kia_connect_api"],
   "requirements": [
-    "hyundai_kia_connect_api @ https://github.com/tastelessjolt/hyundai_kia_connect_api/archive/a355ccde756d30878a30dae4647f662f4949d965.tar.gz"
+    "hyundai_kia_connect_api @ https://github.com/tastelessjolt/hyundai_kia_connect_api/archive/bfa55fc706c223a9ce9a91bcfa698fe013c4a897.tar.gz"
   ],
-  "version": "3.12.0-korea-test.8"
+  "version": "3.12.0-korea-test.9"
 }
